@@ -8,7 +8,7 @@ High-performance Keccak-256 (SHA-3) hashing extension for PHP.
 
 ## Why This Exists
 
-PHP lacks native support for Keccak-256 hashing, which is critical for Ethereum and blockchain applications. Pure PHP implementations are prohibitively slow for production use—taking **52ms per hash** compared to this extension's **3ms**.
+PHP lacks native support for Keccak-256 hashing, which is critical for Ethereum and blockchain applications. Pure PHP implementations are prohibitively slow for production use—taking **~0.3ms per hash** compared to this extension's **~0.02ms**.
 
 This C extension provides production-grade performance for developers building blockchain integrations, dApp backends, or any application requiring high-throughput cryptographic hashing.
 

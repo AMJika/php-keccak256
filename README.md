@@ -2,7 +2,7 @@
 
 High-performance Keccak-256 (SHA-3) hashing extension for PHP.
 
-![Performance](https://img.shields.io/badge/Performance-14-16×_faster-brightgreen)
+![Performance](https://img.shields.io/badge/Performance-14--16×_faster-brightgreen)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![PHP Version](https://img.shields.io/badge/PHP-8.1-blue)
 

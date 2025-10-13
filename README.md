@@ -284,7 +284,7 @@ Built by [BuildCoreWorks](https://buildcoreworks.com) - Performance-critical eng
 
 ## Related Projects
 
-- [php-secp256k1](https://github.com/BuildCoreWorks/php-secp256k1) - Elliptic curve cryptography (3000× faster)
-- [php-rlp](https://github.com/BuildCoreWorks/php-rlp) - RLP encoding/decoding (13-26× faster)
+- [php-secp256k1](https://github.com/BuildCoreWorks/php-secp256k1) - Elliptic curve cryptography (3000× faster) **[COMING SOON]**
+- [php-rlp](https://github.com/BuildCoreWorks/php-rlp) - RLP encoding/decoding (13-26× faster) **[COMING SOON]**
 
 ---

